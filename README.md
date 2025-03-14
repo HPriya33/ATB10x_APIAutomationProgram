@@ -19,7 +19,7 @@ Store your Code - Online - ﻿Github.com , Gitlab, Bitbucket
 Database - MySQL connector (Java lib) , JDBC connector
 Dependencies
 Rest Assured
-TestNG
+TestNG.
 Allure Report
 Exten Report
 Jackson API / GSON
